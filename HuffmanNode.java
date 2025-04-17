@@ -1,4 +1,4 @@
-package zb2226;
+package Huffman_Encoder;
 
 public class HuffmanNode implements Comparable{
 	public String letter;
