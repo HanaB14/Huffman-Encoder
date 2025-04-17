@@ -1,4 +1,4 @@
-package zb2226;
+package Huffman_Encoder;
 
 /**
  * Exception class for access in empty containers
